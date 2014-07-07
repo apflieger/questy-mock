@@ -1,0 +1,13 @@
+header {
+	background: #00964f;
+	box-shadow: 0px -20px 20px -20px #555 inset;
+}
+
+.forest {
+	background: linear-gradient(#768856, #2e3d14);
+}
+
+footer {
+	height: 80px;
+	background: linear-gradient(#4a4528, #958a5c);;
+}
