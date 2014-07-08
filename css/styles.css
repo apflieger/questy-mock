@@ -1,5 +1,5 @@
 header {
-	background: #00964f;
+	background: #83C624;
 	box-shadow: 0px -20px 20px -20px #555 inset;
 }
 
@@ -9,5 +9,5 @@ header {
 
 footer {
 	height: 80px;
-	background: linear-gradient(#4a4528, #958a5c);;
+	background-image: linear-gradient(#4a4528, #958a5c);
 }
